@@ -1,5 +1,4 @@
 import sqlite3
-
 from PyQt5 import QtCore, QtGui, QtWidgets
 myteam= sqlite3.connect("TEAM.db")
 
