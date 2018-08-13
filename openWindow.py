@@ -2,6 +2,7 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 
+
 class Ui_openWindow(object):
     def setupUi(self, OpenWindow):
         OpenWindow.setObjectName("openWindow")
