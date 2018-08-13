@@ -1,4 +1,4 @@
-# PY-cricket (Using Qt designer and sqlite3)
+# PY-cricket (Using Qt designer and Sqlite3)
 
 ![](sc.png)
 
